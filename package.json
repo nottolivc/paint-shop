@@ -1,0 +1,17 @@
+{
+  "name": "paintshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test:unit": "jest --verbose --coverage",
+    "test": "npm run test:unit"
+  },
+  "keywords": [],
+  "author": "nottolivc",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "jest": "^21.2.1"
+  }
+}
