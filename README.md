@@ -1,5 +1,5 @@
-**Paint Shop**
-``` run node index.js path/filename -or- npm test in terminal to see results``
+**Paint Shop - getting Started**
+`run node index.js path/filename -or- npm test in terminal to see results`
 <br />
 You run a paint shop, and there are a few different colors of paint you can prepare. Each color can be either "gloss" or "matte".
 You have a number of customers, and each have some colors they like, either gloss or matte. No customer will like more than one color in matte.
