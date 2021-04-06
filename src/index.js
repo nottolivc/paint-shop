@@ -15,6 +15,7 @@ if (!inputFile) {
 }
 
 try {
+
   const data = parseFile(inputFile)
   const result = helper(data)
   console.log(result)
@@ -22,4 +23,3 @@ try {
   console.error(err)
   process.exit(1)
 }
-
